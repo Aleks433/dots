@@ -1,0 +1,26 @@
+[options]
+font = MesloLGS NF 12.5
+scrollback_lines = 2000
+
+[colors]
+
+foreground=#008bcc
+background=rgba(10,18,28,0.9)
+cursor=#c9ccd3
+
+color0=#000000
+color1=#b10d0d
+color2=#ace7fe
+color3=#f67400
+color4=#ffaa00
+color5=#a05ec1
+color6=#adeaff
+color7=#007cb5
+color8=#7f8c8d
+color9=#d33c2e
+color10=#ade8ff
+color11=#fdbc4b
+color12=#3daee9
+color13=#9c4bbf
+color14=#3daee9
+color15=#3daee96
